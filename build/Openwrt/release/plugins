@@ -19,6 +19,5 @@ luci-app-turboacc
 luci-app-webadmin
 luci-app-wechatpush
 luci-app-wolplus
-luci-app-zerotier
 luci-theme-argon
 luci-theme-bootstrap
