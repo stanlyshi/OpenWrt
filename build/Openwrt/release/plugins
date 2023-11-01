@@ -1,9 +1,7 @@
-luci-app-adbyby-plus
 luci-app-advanced
 luci-app-aliyundrive-webdav
 luci-app-argon-config
 luci-app-autoupdate
-luci-app-filetransfer
 luci-app-firewall
 luci-app-mosdns
 luci-app-onliner
@@ -13,10 +11,7 @@ luci-app-pushbot
 luci-app-shortcutmenu
 luci-app-smartdns
 luci-app-ssr-plus
-luci-app-telegrambot
 luci-app-ttyd
-luci-app-turboacc
-luci-app-webadmin
 luci-app-wechatpush
 luci-app-wolplus
 luci-theme-argon
