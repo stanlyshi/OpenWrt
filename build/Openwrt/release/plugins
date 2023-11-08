@@ -3,16 +3,12 @@ luci-app-aliyundrive-webdav
 luci-app-argon-config
 luci-app-autoupdate
 luci-app-dockerman
-luci-app-eqosplus
 luci-app-firewall
 luci-app-mosdns
-luci-app-onliner
 luci-app-opkg
 luci-app-passwall
 luci-app-pushbot
-luci-app-qbittorrent
 luci-app-rebootschedule
-luci-app-samba4
 luci-app-shortcutmenu
 luci-app-smartdns
 luci-app-ssr-plus
