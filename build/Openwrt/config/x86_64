@@ -176,8 +176,8 @@ CONFIG_PACKAGE_luci-app-passwall_Iptables_Transparent_Proxy=y
 CONFIG_PACKAGE_luci-app-passwall_Nftables_Transparent_Proxy=y
 CONFIG_PACKAGE_luci-app-pushbot=y
 CONFIG_PACKAGE_luci-app-qbittorrent=y
-# CONFIG_PACKAGE_luci-app-qbittorrent_dynamic is not set
-CONFIG_PACKAGE_luci-app-qbittorrent_static=y
+# CONFIG_PACKAGE_luci-app-qbittorrent_static is not set
+CONFIG_PACKAGE_luci-app-qbittorrent_dynamic=y
 CONFIG_PACKAGE_luci-app-rebootschedule=y
 CONFIG_PACKAGE_luci-app-samba4=y
 CONFIG_PACKAGE_luci-app-shortcutmenu=y
