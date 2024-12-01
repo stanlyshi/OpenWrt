@@ -1,6 +1,8 @@
+luci-app-accesscontrol
 luci-app-advanced
 luci-app-aliyundrive-webdav
 luci-app-argon-config
+luci-app-autoreboot
 luci-app-diskman
 luci-app-filetransfer
 luci-app-firewall
@@ -12,6 +14,7 @@ luci-app-rebootschedule
 luci-app-smartdns
 luci-app-ssr-plus
 luci-app-ttyd
+luci-app-turboacc
 luci-app-unblockneteasemusic
 luci-app-wolplus
 luci-theme-argon
